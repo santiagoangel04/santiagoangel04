@@ -1,5 +1,5 @@
 # 💫 About Me:
-i´m student of Systems engineer<br>🔭 I’m currently working on my skills <br>🤝 I’m looking for help for ideas on differents proyects 
+i´m student Systems engineer<br>🔭 I’m currently working on my skills <br>🤝 I’m looking for help for ideas on differents proyects 
 
 
 ## 🌐 Socials:
