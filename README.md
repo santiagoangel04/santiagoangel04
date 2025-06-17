@@ -1,3 +1,5 @@
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Python+developer;Data+Analysis+Student;Curious+to+know;Backend+developer+with+django+and+fastapi" alt="Typing SVG" /></a>
 # 💫 About Me:
 i´m student of Systems engineer<br>🔭 I’m currently working on my skills <br>🤝 I’m looking for help for ideas on differents proyects 
 
