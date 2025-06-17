@@ -1,6 +1,4 @@
-# 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=true&width=435&lines=Python+developer;Data+Analysis+Student;Curious+to+know;Backend+developer+with+django+and+fastapi;student+of+Systems+engineer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=true&width=435&lines=Python+developer;Data+Analysis+Student;Curious+to+know;Backend+developer;student+of+Systems+engineer)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-angel-mancera) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17584078) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@locuspy) 
